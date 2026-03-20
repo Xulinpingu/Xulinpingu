@@ -46,6 +46,6 @@
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats-one-woad-67.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&theme=tokyonight&layout=compact&langs_count=8"
+    src="https://github-readme-stats-one-woad-67.vercel.app/api/top-langs/?username=Xulinpingu&theme=tokyonight&layout=compact&langs_count=8"
   />
 </p>
