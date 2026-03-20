@@ -39,7 +39,7 @@
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats-one-woad-67.vercel.app/api?username=IsaacFaleirosQuevedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-one-woad-67.vercel.app/api?username=Xulinpingu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   
   <img
